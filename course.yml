@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Introduction to Lode
+description: In this course we will learn about Lode and will do that via Python
 programming_language: python
 from: python-base-prod:21
