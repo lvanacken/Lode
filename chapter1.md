@@ -63,3 +63,38 @@ Ex().has_printout(0)
 Ex().has_printout(1)
 Ex().has_printout(2)
 ```
+
+---
+
+## What was the lastname again?
+
+```yaml
+type: MultipleChoiceExercise 
+xp: 50 
+key: e39eec5854   
+```
+
+
+What is the lastname of Lode?
+
+
+`@instructions`
+- Vanacken
+- Vanaken
+- Van Aeken
+
+`@hint`
+It is one word and with a c
+
+`@pre_exercise_code`
+
+```{python}
+lastname = 'Vanacken'
+```
+
+`@sct`
+
+```{python}
+
+```
+
