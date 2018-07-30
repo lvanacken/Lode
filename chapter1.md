@@ -56,7 +56,7 @@ print(address)
 `@sct`
 
 ```{python}
-Ex().has_output(0)
-Ex().has_output(1)
-Ex().has_output(2)
+Ex().has_printout(0)
+Ex().has_printout(1)
+Ex().has_printout(2)
 ```
