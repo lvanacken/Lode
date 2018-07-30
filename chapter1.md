@@ -1,39 +1,18 @@
 ---
-title: Test
-description: Test
-
+  title: "Introduction to Lode"
+  description: "Let's try to introduce Lode via Python!"
 ---
+
 ## Sample exercise
 
 ```yaml
-type: NormalExercise
+type: NormalExercise 
 lang: python
-xp: 100
+xp: 100 
 skills: 2
-key: 9585a16145
+key: 9585a16145   
 ```
 
 
-`@instructions`
 
-`@hint`
 
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
