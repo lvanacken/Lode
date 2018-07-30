@@ -20,12 +20,12 @@ What is his gender?
 
 
 `@instructions`
-1.  print `lastname`
-2.  print `age`
-3.  print `address`
+-  print `lastname`
+-  print `age`
+-  print `address`
 
 `@hint`
-Use print(age)
+Use `print(age)`
 
 `@pre_exercise_code`
 
@@ -48,8 +48,11 @@ address = 'Diepenbeek'
 `@solution`
 
 ```{python}
+#print lastname
 print(lastname)
+#print age
 print(age)
+#print address
 print(address)
 ```
 
