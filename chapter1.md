@@ -1,6 +1,6 @@
 ---
-  title: "Introduction to Lode"
-  description: "Let's try to introduce Lode via Python!"
+title: 'Introduction to Lode'
+description: 'Let''s try to introduce Lode via Python!'
 ---
 
 ## My Personalia
@@ -28,15 +28,12 @@ What is his gender?
 Use `print(age)`
 
 `@pre_exercise_code`
-
 ```{python}
 lastname = 'Vanacken'
 age = 34
 address = 'Diepenbeek'
 ```
-
 `@sample_code`
-
 ```{python}
 #print lastname
 
@@ -44,9 +41,7 @@ address = 'Diepenbeek'
 
 #print address
 ```
-
 `@solution`
-
 ```{python}
 #print lastname
 print(lastname)
@@ -55,15 +50,12 @@ print(age)
 #print address
 print(address)
 ```
-
 `@sct`
-
 ```{python}
 Ex().has_printout(0)
 Ex().has_printout(1)
 Ex().has_printout(2)
 ```
-
 ---
 
 ## What was the lastname again?
@@ -87,14 +79,6 @@ What is the lastname of Lode?
 It is one word and with a c
 
 `@pre_exercise_code`
-
 ```{python}
 lastname = 'Vanacken'
 ```
-
-`@sct`
-
-```{python}
-
-```
-
